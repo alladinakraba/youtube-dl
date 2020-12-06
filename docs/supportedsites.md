@@ -59,6 +59,7 @@
  - **ARD:mediathek**
  - **ARDBetaMediathek**
  - **Arkena**
+ - **arte.sky.it**
  - **ArteTV**
  - **ArteTVEmbed**
  - **ArteTVPlaylist**
@@ -110,6 +111,7 @@
  - **Bloomberg**
  - **BokeCC**
  - **BostonGlobe**
+ - **Box**
  - **Bpb**: Bundeszentrale für politische Bildung
  - **BR**: Bayerischer Rundfunk
  - **BravoTV**
@@ -157,6 +159,7 @@
  - **Chilloutzone**
  - **chirbit**
  - **chirbit:profile**
+ - **cielotv.it**
  - **Cinchcast**
  - **Cinemax**
  - **CiscoLiveSearch**
@@ -305,6 +308,7 @@
  - **FrontendMasters**
  - **FrontendMastersCourse**
  - **FrontendMastersLesson**
+ - **FujiTVFODPlus7**
  - **Funimation**
  - **Funk**
  - **Fusion**
@@ -468,6 +472,7 @@
  - **massengeschmack.tv**
  - **MatchTV**
  - **MDR**: MDR.DE and KiKA
+ - **MedalTV**
  - **media.ccc.de**
  - **media.ccc.de:lists**
  - **Medialaan**
@@ -482,6 +487,7 @@
  - **META**
  - **metacafe**
  - **Metacritic**
+ - **mewatch**
  - **Mgoon**
  - **MGTV**: 芒果TV
  - **MiaoPai**
@@ -608,6 +614,7 @@
  - **Nuvid**
  - **NYTimes**
  - **NYTimesArticle**
+ - **NYTimesCooking**
  - **NZZ**
  - **ocw.mit.edu**
  - **OdaTV**
@@ -660,10 +667,13 @@
  - **PicartoVod**
  - **Piksel**
  - **Pinkbike**
+ - **Pinterest**
+ - **PinterestCollection**
  - **Pladform**
  - **Platzi**
  - **PlatziCourse**
  - **play.fm**
+ - **player.sky.it**
  - **PlayPlusTV**
  - **PlaysTV**
  - **Playtvak**: Playtvak.cz, iDNES.cz and Lidovky.cz
@@ -701,6 +711,7 @@
  - **qqmusic:singer**: QQ音乐 - 歌手
  - **qqmusic:toplist**: QQ音乐 - 排行榜
  - **QuantumTV**
+ - **Qub**
  - **Quickline**
  - **QuicklineLive**
  - **R7**
@@ -755,6 +766,7 @@
  - **RTVNH**
  - **RTVS**
  - **RUHD**
+ - **RumbleEmbed**
  - **rutube**: Rutube videos
  - **rutube:channel**: Rutube channels
  - **rutube:embed**: Rutube embedded videos
@@ -792,6 +804,8 @@
  - **Shared**: shared.sx
  - **ShowRoomLive**
  - **Sina**
+ - **sky.it**
+ - **skyacademy.it**
  - **SkylineWebcams**
  - **SkyNews**
  - **skynewsarabia:article**
@@ -829,6 +843,10 @@
  - **Sport5**
  - **SportBox**
  - **SportDeutschland**
+ - **Spreaker**
+ - **SpreakerPage**
+ - **SpreakerShow**
+ - **SpreakerShowPage**
  - **SpringboardPlatform**
  - **Sprout**
  - **sr:mediathek**: Saarländischer Rundfunk
@@ -897,7 +915,7 @@
  - **ThisAV**
  - **ThisOldHouse**
  - **TikTok**
- - **TikTokUser**
+ - **TikTokUser** (Currently broken)
  - **tinypic**: tinypic.com videos
  - **TMZ**
  - **TMZArticle**
@@ -930,11 +948,13 @@
  - **TV2DKBornholmPlay**
  - **TV4**: tv4.se and tv4play.se
  - **TV5MondePlus**: TV5MONDE+
+ - **tv8.it**
  - **TVA**
  - **TVANouvelles**
  - **TVANouvellesArticle**
  - **TVC**
  - **TVCArticle**
+ - **TVer**
  - **tvigle**: Интернет-телевидение Tvigle.ru
  - **tvland.com**
  - **TVN24**
@@ -1001,6 +1021,8 @@
  - **Viddler**
  - **Videa**
  - **video.google:search**: Google Video search
+ - **video.sky.it**
+ - **video.sky.it:live**
  - **VideoDetective**
  - **videofy.me**
  - **videomore**
@@ -1042,6 +1064,7 @@
  - **vk:wallpost**
  - **vlive**
  - **vlive:channel**
+ - **vlive:post**
  - **Vodlocker**
  - **VODPl**
  - **VODPlatform**
@@ -1113,6 +1136,8 @@
  - **yahoo:japannews**: Yahoo! Japan News
  - **YandexDisk**
  - **yandexmusic:album**: Яндекс.Музыка - Альбом
+ - **yandexmusic:artist:albums**: Яндекс.Музыка - Артист - Альбомы
+ - **yandexmusic:artist:tracks**: Яндекс.Музыка - Артист - Треки
  - **yandexmusic:playlist**: Яндекс.Музыка - Плейлист
  - **yandexmusic:track**: Яндекс.Музыка - Трек
  - **YandexVideo**
@@ -1130,6 +1155,7 @@
  - **YourPorn**
  - **YourUpload**
  - **youtube**: YouTube.com
+ - **youtube:favorites**: YouTube.com favourite videos, ":ytfav" for short (requires authentication)
  - **youtube:history**: Youtube watch history, ":ythistory" for short (requires authentication)
  - **youtube:playlist**: YouTube.com playlists
  - **youtube:recommended**: YouTube.com recommended videos, ":ytrec" for short (requires authentication)
